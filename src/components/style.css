@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    width: 100vw;
+    height: 45px;
+    background-color: orange;
+    text-align: center;
+    color: white;
+    padding: 20px;
+
+}
+.slider{
+    
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);;
+    width: 100vw;
+    /* background-image: url(../components/images/taj.jpg); */
+    background-repeat: no-repeat;
+height: 225px;
+}
+.slider h3{
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding-top: 75px;
+
+}
